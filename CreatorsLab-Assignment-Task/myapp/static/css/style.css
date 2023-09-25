@@ -1,0 +1,98 @@
+/* Style the error messages */
+.alert {
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #f2dede;
+    border: 1px solid #ebccd1;
+    color: #a94442;
+    border-radius: 4px;
+  }
+  
+  .alert ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .alert li {
+    margin: 5px 0;
+  }
+  
+  /* Style the page header */
+  h2 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  /* Style the main content */
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #666;
+  }
+  
+  /* Style the links */
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Style the file list */
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  ul li {
+    margin: 10px 0;
+  }
+  
+  /* Style the small text */
+  small {
+    font-size: 12px;
+    color: #777;
+  }
+  
+  /* Add spacing between elements */
+  hr {
+    margin: 20px 0;
+  }
+  
+  /* Style the navigation links */
+  ul.navigation {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  ul.navigation li {
+    margin: 10px 0;
+  }
+  
+  /* Style the navigation links */
+  ul.navigation a {
+    display: block;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 4px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  ul.navigation a:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Style the user information */
+  .user-info {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+  }
+  
